@@ -13,6 +13,7 @@ Password hashing & secure session management.
 
 CRUD operations for courses: Add, update, delete, and view course details.
 
+
 Database integration with MongoDB for structured data storage.
 
 Instructor management for course creation and updates.
